@@ -1,0 +1,26 @@
+*{
+    margin:0 ;
+    padding: 0;
+
+
+}
+
+body, image {
+    background-position: center;
+    margin-left: 500px;
+    
+}
+
+
+.imagem{
+    
+    height: 190px;
+    width: 230px;
+    background-image: url(./imagens/semexpressao.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+
+  
+}
